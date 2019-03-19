@@ -231,7 +231,7 @@ footer i {
   margin-top: -1%;
 }
 
-@media screen and (max-width: 578px){
+@media screen and (max-width: 768px){
    .logo {
     margin:0;
    }
