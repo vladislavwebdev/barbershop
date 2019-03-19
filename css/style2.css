@@ -1,0 +1,216 @@
+* {
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+.menu {
+  color: #ffffff;
+  font-size: 16px;
+  line-height: 70px;
+  margin: 2%;
+  font-weight: 700;
+}
+.btn-log {
+  line-height: 70px;
+  background-color: #000000;
+  border: none;
+  color: #ffffff;
+  font-weight: bold;
+  margin-left: 20%;
+}
+.btn-log:focus {
+  outline: none;
+  color: #ffffff;
+}
+.fa-sign-out:hover {
+  color: #ffffff;
+}
+.line {
+  background-color: #000000;
+}
+.fa-sign-out {
+  color: #4d4d4d;
+}
+.menu:hover {
+  border: 2px solid #ffffff;
+  color: #ffffff;
+  padding: 5px;
+}
+.menu:focus {
+  border: none;
+  color: #ffffff;
+}
+.pole {
+  margin-top: 10%;
+  margin-bottom: 5%;
+  height: 40px;
+  width: 300px;
+  border: 2px solid #000000;
+  padding-left: 1%;
+}
+.pole2 {
+  margin-bottom: 35%;
+  height: 40px;
+  width: 300px;
+  border: 2px solid #000000;
+  padding-left: 1%;
+}
+.modal p {
+  margin-top: 10%;
+}
+.checkbox {
+  top: 60%;
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  left: 25%;
+}
+.text-check {
+  margin-bottom: 10%;
+  position: absolute;
+  left: 29%;
+  top: 60%;
+}
+.text-parol {
+  margin-bottom: 10%;
+  position: absolute;
+  top: 60%;
+  right: 25%;
+}
+.modal-btn {
+  top: 80%;
+  position: absolute;
+  right: 25%;
+  background-color: #000000;
+  height: 40px;
+  width: 300px;
+  color: #ffffff;
+}
+.magazin {
+  background-color: #fbf8f5;
+  font-weight: 700;
+  color: #000000;
+}
+.magazin h1 {
+  font-weight: 700;
+  font-size: 30px;
+  color: #000000;
+}
+.magazin h2 {
+  font-weight: 700;
+  font-size: 30px;
+  color: #000000;
+}
+.icon {
+  margin-top: -1%;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+.box {
+  height: 30px;
+  width: 30px;
+  border: 2px solid #000000;
+  margin-top: 5%;
+  margin-bottom: 2%;
+}
+footer {
+  background-color: #222222;
+  height: 200px;
+  width: 100%;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 14px;
+}
+footer p {
+  margin-top: 10%;
+}
+footer i {
+  height: 40px;
+  width: 40px;
+  background-color: #000000;
+  padding: 6px;
+  line-height: 40px;
+}
+.soc {
+  margin-top: 20%;
+}
+.razrab {
+  margin-top: 20%;
+}
+.html-aca {
+  background-color: #000000;
+  width: 140px;
+  height: 40px;
+  line-height: 40px;
+  margin-top: -1%;
+}
+.item {
+  height: 290px;
+  width: 230px;
+  border: 2px solid #000000;
+  margin-top: 4%;
+}
+.item h6 {
+  font-weight: 700;
+  font-size: 14px;
+  margin-left: 4%;
+}
+.item button {
+  width: 80px;
+  height: 48px;
+  background-color: #000000;
+  color: #ffffff;
+  position: absolute;
+  top: 75%;
+  right: 23%;
+}
+.box1 {
+  width: 110px;
+  height: 45px;
+  background-color: #e5e5e5;
+  margin-left: 4%;
+  color: #000000;
+  line-height: 45px;
+}
+.btn {
+  width: 110px;
+  height: 45px;
+  background-color: #000000;
+  color: #ffffff;
+  font-weight: 700;
+  margin-top: 85%;
+}
+.box2 {
+  height: 45px;
+  width: 45px;
+  background-color: #000000;
+  display: inline-block;
+  margin-top: 8%;
+  margin-bottom: 8%;
+  color: #ffffff;
+  line-height: 45px;
+}
+.box3 {
+  height: 45px;
+  width: 45px;
+  background-color: #fbf8f5;
+  display: inline-block;
+  margin-top: 8%;
+  margin-bottom: 8% ;
+  color: #000000;
+  line-height: 45px;
+}
+.proiz {
+  display: inline-block;
+}
+.text-1 {
+  position: absolute;
+  left: 30%;
+  margin-top: -15%;
+}
+@media screen and (max-width: 768px){
+   .btn-log{
+    position: absolute;
+    margin-top:-23.3%;
+    margin-left: 70%;
+   }
+
+}
